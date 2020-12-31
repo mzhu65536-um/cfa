@@ -1,0 +1,2 @@
+-Q ./theories/ CFA
+-Q ../lattice/theories/ Lattice
